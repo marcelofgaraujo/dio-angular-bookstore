@@ -1,27 +1,15 @@
-# ECommerce
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h1>Bookstore App</h1>
+<p>Development of a Bookstore SPA in Angular, stylized by Bootstrap. This application makes integration with an <a href="https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts">API</a> developed in C# by <a href="https://github.com/naatscs">Nathalia Corrêa</a>, which provides all necessary data.</p>
+<h2>Technologies</h2>
+<ul>
+    <li>Angular CLI 13</li>
+    <li>Bootstrap 5.1.3</li>
+</ul>
+<h2>Achievements</h2>
+<p>First contact with Angular CLI interface and its class structure.<br>
+Learning to import module and components in app.module.<br>
+Learning to use routing module in angular.<br>
+Learning to use service components in angular for API consumption.<br>
+Use of interface for API response typing.</p>
+<h2>License</h2>
+<p>This project is under <a href="">MIT License</a>.</p>
