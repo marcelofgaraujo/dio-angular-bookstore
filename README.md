@@ -12,4 +12,4 @@ Learning to use routing module in angular.<br>
 Learning to use service components in angular for API consumption.<br>
 Use of interface for API response typing.</p>
 <h2>License</h2>
-<p>This project is under <a href="">MIT License</a>.</p>
+<p>This project is under <a href="https://github.com/marcelofgaraujo/dio-angular-bookstore/blob/main/license.md">MIT License</a>.</p>
