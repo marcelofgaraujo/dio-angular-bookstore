@@ -1,5 +1,5 @@
 <h1>Bookstore App</h1>
-<p>Development of a Bookstore SPA in Angular, stylized by Bootstrap. An API was developed for this project, and the focus here was fetch this data provided by the API and display it on page.</p>
+<p>Development of a Bookstore SPA in Angular, stylized by Bootstrap. An API was developed for this project, and the focus here was fetch this data provided by the API and display it on page. A <a href="https://web.dio.me/home" target="_blank">DIO</a> challenge in Santander Fullstack Bootcamp.</p>
 <h2>Technologies</h2>
 <ul>
     <li>Angular CLI 13</li>
