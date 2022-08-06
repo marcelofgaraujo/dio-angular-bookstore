@@ -1,5 +1,5 @@
 <h1>Bookstore App</h1>
-<p>Development of a Bookstore SPA in Angular, stylized by Bootstrap. This application makes integration with an <a href="https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts">API</a> developed in C# by <a href="https://github.com/naatscs">Nathalia Corrêa</a>, which provides all necessary data.</p>
+<p>Development of a Bookstore SPA in Angular, stylized by Bootstrap. An API was developed for this project, and the focus here was fetch this data provided by the API and display it on page.</p>
 <h2>Technologies</h2>
 <ul>
     <li>Angular CLI 13</li>
@@ -11,5 +11,7 @@ Learning to import module and components in app.module.<br>
 Learning to use routing module in angular.<br>
 Learning to use service components in angular for API consumption.<br>
 Use of interface for API response typing.</p>
+<h2>Repositories</h2>
+<ul><li><a href="https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts">API</a></li></ul>
 <h2>License</h2>
 <p>This project is under <a href="https://github.com/marcelofgaraujo/dio-angular-bookstore/blob/main/license.md">MIT License</a>.</p>
